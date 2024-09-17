@@ -1,6 +1,6 @@
 - 👋 Hi, We're [Ace Ventures](https://www.aceventure.au)
 - 🇦🇺 We're a venture studio based in Australia
-- 🌱 We're currently learning Remix
+- 🌱 We're currently learning [Remix](https://remix.run)
 - 💞️ We're looking to collaborate on your next tech startup
 - 📫 How to reach us - saurabh@aceventure.au
 - ⚡ Fun fact: We're just having fun building Startups
