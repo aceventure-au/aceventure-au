@@ -1,4 +1,4 @@
-- 👋 Hi, We're @aceventure-au
+- 👋 Hi, We're [Ace Ventures](https://www.aceventure.au)
 - 🇦🇺 We're a venture studio based in Australia
 - 🌱 We're currently learning Remix
 - 💞️ We're looking to collaborate on your next tech startup
